@@ -1,0 +1,22 @@
+{
+  "name":  "Friend_Finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: actually no test\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolhgray/Friend_Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/carolhgray/Friend_Finder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
