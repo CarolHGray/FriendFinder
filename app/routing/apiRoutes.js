@@ -32,6 +32,10 @@ router.post("/api/friends", (req, res) => {
   const NewFriend = req.body;
   NewFriend.scores = Scores;
   const UpdatedFile = [...file, NewFriend];
+  
+  // after finding match, add user to friend array
+    friends.push(user);
+
 
   fs.writeFile(
     path.join(__dirname, "../data/friends.json"),
