@@ -21,6 +21,7 @@ This project was created for Homework assignment #13 of Vanderbilt's Full-Stack 
 Download or clone the repository and install running `npm install`, then start up the server `node server`.
 
 
+## Run the Program
 
 When the application loads, this user screen appears.   
 Click on the "go to Survey" button.
@@ -30,9 +31,9 @@ Click on the "go to Survey" button.
 
 Enter your name and a link to an image to share.  Then answer the 10 questions, using a 1-5 scale.
 
-![image] (https://github.com/CarolHGray/FriendFinder/blob/master/Screenshot%202020-01-21%20at%2023.41.18.png)
+![image](https://github.com/CarolHGray/FriendFinder/blob/master/Screenshot%202020-01-21%20at%2023.41.18.png)
 
 
 Then submit your answers and meet your new friend!
 
-![image] (
+![image](https://github.com/CarolHGray/FriendFinder/blob/master/Screenshot%202020-01-21%20at%2023.42.44.png)
