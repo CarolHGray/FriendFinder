@@ -187,11 +187,19 @@
             $("#q10").val(),
           ]
         };
-        $.post("/api/friends", userData, function (data) {
-          $("#match-name").text(data[0].name);
-          $("#match-img").attr("src", data.photo);
-          $("#results-modal").modal("toggle");
+       // $.post("/api/friends", userData, function (data) {
+       //   $("#match-name").text(data[0].name);
+       //   $("#match-img").attr("src", data.photo);
+       //   $("#results-modal").modal("toggle");
+       // });
+        
+        $.post(currentURL + "/api/friends", userData, function(data) {
+                
+                $("#match-name").text(data.name);
+                $("#match-img").attr("src", data.photo);
+                $("#results-modal").modal("toggle");
         });
+        
       } else {
         alert("You're not done.  Fill out all fields before submitting!");
       }
