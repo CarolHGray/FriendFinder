@@ -19,4 +19,4 @@ This project was created for Homework assignment #13 of Vanderbilt's Full-Stack 
 Download or clone the repository and install running `npm install`, then start up the server `node server`.
 
 
-![image](https://
+![image](https://github.com/CarolHGray/FriendFinder/blob/master/Screenshot%202020-01-21%20at%2023.39.03.png)
