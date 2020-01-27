@@ -30,4 +30,9 @@ Click on the "go to Survey" button.
 
 Enter your name and a link to an image to share.  Then answer the 10 questions, using a 1-5 scale.
 
-![image] 
+![image] (https://github.com/CarolHGray/FriendFinder/blob/master/Screenshot%202020-01-21%20at%2023.41.18.png)
+
+
+Then submit your answers and meet your new friend!
+
+![image] (
