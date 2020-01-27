@@ -37,3 +37,6 @@ Enter your name and a link to an image to share.  Then answer the 10 questions, 
 Then submit your answers and meet your new friend!
 
 ![image](https://github.com/CarolHGray/FriendFinder/blob/master/Screenshot%202020-01-21%20at%2023.42.44.png)
+
+
+Congratulations!  You've found a new friend.
