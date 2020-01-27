@@ -1,4 +1,4 @@
-# Friend Finder --the Big Bang Theory for finding your best friend
+# Friend Finder -- the Big Bang Theory of meeting people
 
 - [Try it out!](https://mysterious-savannah-21173.herokuapp.com/)
 
@@ -17,3 +17,6 @@ This project was created for Homework assignment #13 of Vanderbilt's Full-Stack 
 ## Installation
 
 Download or clone the repository and install running `npm install`, then start up the server `node server`.
+
+
+![image](https://
